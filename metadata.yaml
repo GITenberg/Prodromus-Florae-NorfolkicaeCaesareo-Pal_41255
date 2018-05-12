@@ -1,0 +1,41 @@
+_repo: Prodromus-Florae-NorfolkicaeCaesareo-Pal_41255
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Endlicher, Stephan
+    aliases:
+    - Endlicher, Stephanus Ladislaus
+    - Endlicher, István Lászlo
+    - Endlicher, Stephanus
+    - Endlicher, Istvan Laszlo
+    - Endlicher, Stefan
+    - Endlicher, Stephan Friedrich Ladislaus
+    - Endlicher, Stephano
+    - Endlicher, Istvás Lászlo
+    - Endlicher, Stephan Ladislaus
+    - Endlicher, Istvas Laszlo
+    - Endlicher, Stephani Ladislai
+    birthdate: 1804
+    deathdate: 1849
+    gutenberg_agent_id: '41074'
+    url: http://www.gutenberg.org/2009/agents/41074
+    wikipedia: http://en.wikipedia.org/wiki/Stephan_Endlicher
+description: ''
+gutenberg_issued: '2012-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41255'
+language: la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Plants -- Norfolk Island'
+- !lcc 'QK'
+title: "Prodromus Florae Norfolkicae\r\nSive, Catalogus stirpium quae in insula Norfolk\
+  \ annis 1804 et 1805 a Ferdinando Bauer collectae et depictae, nunc in Museo caesareo\
+  \ palatino rerum naturalium Vindobonae servantur"
+url: http://www.gutenberg.org/ebooks/41255
